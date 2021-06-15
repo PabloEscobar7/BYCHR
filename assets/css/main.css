@@ -71,7 +71,7 @@ body {
     transition: none !important; }
   body > * {
     position:center;
-    z-index: 1; }
+    z-index: 2; }
 /* IMG BG */
 #bg {
   -moz-transition: opacity 2s ease-in-out;
