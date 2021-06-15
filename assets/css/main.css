@@ -51,7 +51,7 @@ body {
   display: -ms-flex;
   display: flex;
   -moz-flex-direction: center;
-  -webkit-flex-direction: column;
+  -webkit-flex-direction: center;
   -ms-flex-direction: center;
   flex-direction: center;
   -moz-justify-content: center;
@@ -70,7 +70,7 @@ body {
     -ms-transition: none !important;
     transition: none !important; }
   body > * {
-    position:center;
+    position:column;
     z-index: 2; }
 /* IMG BG */
 #bg {
