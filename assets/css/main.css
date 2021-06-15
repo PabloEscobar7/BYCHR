@@ -70,7 +70,7 @@ body {
     -ms-transition: none !important;
     transition: none !important; }
   body > * {
-    position: center;
+    position:center;
     z-index: 2; }
 /* IMG BG */
 #bg {
