@@ -160,7 +160,7 @@ p {
   }
   .F1TV:active {
     position:center;
-    top:1px;
+    top:3px;
   }
 
   .CircuitosF1 {
@@ -184,7 +184,7 @@ p {
   }
   .CircuitosF1:active {
     position:center;
-    top:1px;
+    top:3px;
   }
 
   .F1app {
@@ -208,5 +208,5 @@ p {
   }
   .F1app:active {
     position:center;
-    top:1px;
+    top:3px;
   }
