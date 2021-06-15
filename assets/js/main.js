@@ -21,7 +21,7 @@
 							'images/S471.jpg': 'center',
 							'images/S472.jpg': 'center'
 						},
-						delay: 500
+						delay: 3000
 				};
 				var	pos = 0, lastPos = 0,
 					$wrapper, $bgs = [], $bg,
