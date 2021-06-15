@@ -51,7 +51,7 @@ body {
   display: -ms-flex;
   display: flex;
   -moz-flex-direction: center;
-  -webkit-flex-direction: column;
+  -webkit-flex-direction: center;
   -ms-flex-direction: center;
   flex-direction: center;
   -moz-justify-content: center;
@@ -71,7 +71,7 @@ body {
     transition: none !important; }
   body > * {
     position:center;
-    z-index: 2; }
+    z-index: 1; }
 /* IMG BG */
 #bg {
   -moz-transition: opacity 2s ease-in-out;
@@ -107,7 +107,7 @@ body {
       visibility: visible;
       z-index: 1; }
       #bg div.visible.top {
-        z-index: 2; }
+        z-index: 1; }
       @media screen and (max-width: 1280px) {
         #bg div.visible {
           -moz-animation: bg 29.25s linear infinite;
