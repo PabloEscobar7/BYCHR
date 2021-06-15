@@ -70,7 +70,7 @@ body {
     -ms-transition: none !important;
     transition: none !important; }
   body > * {
-    position: relative;
+    position: center;
     z-index: 2; }
 /* IMG BG */
 #bg {
@@ -159,7 +159,7 @@ p {
     background-color:#ffffff;
   }
   .F1TV:active {
-    position:relative;
+    position:center;
     top:1px;
   }
 
@@ -183,7 +183,7 @@ p {
     background-color:#000000;
   }
   .CircuitosF1:active {
-    position:relative;
+    position:center;
     top:1px;
   }
 
@@ -207,6 +207,6 @@ p {
     background-color:#00ffff;
   }
   .F1app:active {
-    position:relative;
+    position:center;
     top:1px;
   }
