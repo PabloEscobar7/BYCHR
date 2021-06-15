@@ -140,19 +140,19 @@ p {
   margin: 0 0 2em 0; }
 /* Botones Web */
   .F1TV {
-    box-shadow:inset 0px -3px 7px 0px #ececec;
+    box-shadow:inset 0px -3px 7px 0px #ff0000;
     background:linear-gradient(to bottom, #000000 5%, #ff0000 100%);
     background-color:#000000;
     border-radius:3px;
     border:1px solid #0b0e07;
     display:inline-block;
     cursor:pointer;
-    color:#ffffff;
+    color:#000000;
     font-family:Arial;
     font-size:24px;
     padding:9px 23px;
     text-decoration:none;
-    text-shadow:0px 1px 0px #263666;
+    text-shadow:0px 1px 0px #ffffff;
   }
   .F1TV:hover {
     background:linear-gradient(to bottom, #ff0000  5%, #000000 100%);
@@ -164,22 +164,22 @@ p {
   }
 
   .CircuitosF1 {
-    box-shadow:inset 0px -3px 7px 0px #ffffff;
-    background:linear-gradient(to bottom, #3700ff 5%, #000000 100%);
-    background-color:#ff0000;
+    box-shadow:inset 0px -3px 7px 0px #ff0000;
+    background:linear-gradient(to bottom, #000000 5%, #ff0000 100%);
+    background-color:#000000;
     border-radius:3px;
     border:1px solid #0b0e07;
     display:inline-block;
     cursor:pointer;
-    color:#ffffff;
+    color:#000000;
     font-family:Arial;
     font-size:24px;
     padding:9px 23px;
     text-decoration:none;
-    text-shadow:0px 1px 0px #263666;
+    text-shadow:0px 1px 0px #ffffff;
   }
   .CircuitosF1:hover {
-    background:linear-gradient(to bottom, #ffffff 5%, #ff0000 100%);
+    background:linear-gradient(to bottom, #ff0000 5%, #000000 100%);
     background-color:#000000;
   }
   .CircuitosF1:active {
@@ -195,16 +195,16 @@ p {
     border:1px solid #0b0e07;
     display:inline-block;
     cursor:pointer;
-    color:#ffffff;
+    color:#000000;
     font-family:Arial;
     font-size:24px;
     padding:9px 23px;
     text-decoration:none;
-    text-shadow:0px 1px 0px #263666;
+    text-shadow:0px 1px 0px #ffffff;
   }
   .F1app:hover {
-    background:linear-gradient(to bottom, #0004ff 5%, #4c00ff  100%);
-    background-color:#00ffff;
+    background:linear-gradient(to bottom, #ff0000 5%, #000000  100%);
+    background-color:#000000;
   }
   .F1app:active {
     position:center;
