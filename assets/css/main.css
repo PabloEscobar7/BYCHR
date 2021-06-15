@@ -50,8 +50,8 @@ body {
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
-  -moz-flex-direction: center;
-  -webkit-flex-direction: center;
+  -moz-flex-direction: column;
+  -webkit-flex-direction: column;
   -ms-flex-direction: center;
   flex-direction: center;
   -moz-justify-content: center;
