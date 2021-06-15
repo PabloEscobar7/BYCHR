@@ -13,7 +13,6 @@
 				var settings = {
 						images: {
 							'images/F101.jpg': 'center',
-							'images/f102.jpg': 'center',
 							'images/f103.jpg': 'center',
 							'images/f104.jpg': 'center',
 							'images/LH44.jpg': 'center',
