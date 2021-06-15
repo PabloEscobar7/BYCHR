@@ -51,11 +51,11 @@ body {
   display: -ms-flex;
   display: flex;
   -moz-flex-direction: center;
-  -webkit-flex-direction: column;
+  -webkit-flex-direction: center;
   -ms-flex-direction: center;
   flex-direction: center;
   -moz-justify-content: center;
-  -webkit-justify-content: column;
+  -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
   background-color: #000;
