@@ -16,7 +16,10 @@
 							'images/f103.jpg': 'center',
 							'images/f104.jpg': 'center',
 							'images/LH44.jpg': 'center',
-							'images/LN04.jpg': 'center'
+							'images/LN04.jpg': 'center',
+							'images/S470.jpg': 'center',
+							'images/S471.jpg': 'center',
+							'images/S472.jpg': 'center'
 						},
 						delay: 7000
 				};
